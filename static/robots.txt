@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://typestyle.netlify.app/sitemap-index.xml
