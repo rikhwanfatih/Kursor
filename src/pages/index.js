@@ -12,6 +12,8 @@ export default (() => {
 				Quarkly export
 			</title>
 			<meta name={"description"} content={"Web site created using quarkly.io"} />
+			<meta property={"og:title"} content={"Typestyle"} />
+			<meta property={"og:image"} content={"https://images.unsplash.com/photo-1533226458520-6f71cffeaa6a?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&h=2000"} />
 			<link rel={"shortcut icon"} href={"https://uploads.quarkly.io/readme/cra/favicon-32x32.ico"} type={"image/x-icon"} />
 		</Helmet>
 		<Section height="500px">

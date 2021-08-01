@@ -24,6 +24,10 @@ export default {
 	"projectType": "gatsby",
 	"site": {
 		"styles": {},
-		"seo": {}
+		"seo": {
+			"og:image": "https://images.unsplash.com/photo-1533226458520-6f71cffeaa6a?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&h=2000",
+			"og:title": "Typestyle",
+			"title": ""
+		}
 	}
 }
